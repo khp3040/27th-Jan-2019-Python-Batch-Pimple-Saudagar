@@ -1,0 +1,31 @@
+
+Assignments on File Handling
+------------------------------
+
+
+1) Wap to accept a file name and directory name from user and create a backup of this file in same directory
+
+
+2) Wap to find out total no of lines total no of words total no of characters in file
+
+3) Wap to convert the content of files in reverse order.
+
+4) Wap to convert each n every word in upper case in file
+
+5) Find count of each and every word in file
+
+6) Wap to read csv file which contain following columns emp id, emp name, empsal, empdept
+a) Find out the avg salary of ITdept
+
+
+-------------
+7)Wap to accept directory name from user and remove if it is modify 30days older and if size is 100kb(use fun m10)
+
+8)Wap to find out count of all the python files in any specific directory and subdirectory
+
+
+2) Wap to accept directory name from user and remove all the empty files, 
+from that directory. (os.path.getsize)
+
+
+
